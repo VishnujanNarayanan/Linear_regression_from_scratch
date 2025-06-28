@@ -109,5 +109,4 @@ Inspired by Géron’s "Hands-On ML" and traditional ML coursework, but restruct
 ##  Author
 
 **Vishnujan Narayanan**  
-_Data | ML | Optimization Enthusiast_  
 [GitHub](https://github.com/VishnujanNarayanan) • [Substack](https://substack.com/@vishnujannarayanan) • [LinkedIn](www.linkedin.com/in/vishnujan-narayanan)
