@@ -72,7 +72,7 @@ pip install -r requirements.txt
 Open either:
 
 - `Linear_regression_from_scratch.ipynb` → single-variable regression  
-- `multivariable_regression.ipynb` → multivariable with visuals
+- `multivariable_regression.ipynb` → multivariable regression
 
 ---
 
