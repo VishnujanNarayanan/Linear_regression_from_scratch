@@ -25,32 +25,31 @@ Linear_regression_scratch/
 
 ---
 
-## 📘 What You'll Learn
+## 📘 What I learnt
 
-✅ Gradient Descent (step-by-step)  
-✅ Mean Squared Error (MSE) loss  
-✅ Closed-form Normal Equation  
-✅ Vectorization tricks  
-✅ How to compare your implementation with `scikit-learn`  
-✅ How to visualize training performance  
-✅ How to structure a portfolio-level ML project
+ Gradient Descent (step-by-step)  
+ Mean Squared Error (MSE) loss  
+ Closed-form Normal Equation  
+ Vectorization tricks  
+ How to visualize training performance  
 
 ---
 
-## 🔧 Features Implemented
+## 
+ Features Implemented
 
-- 🔢 **Single-variable regression**
-- 🔢 **Multivariable regression (3 features)**
-- 📉 **Gradient descent implementation**
-- 📐 **Normal Equation (closed-form)**
-- ⚖️ **Comparison with `scikit-learn`**
-- 📊 **Loss curve and residuals**
-- 🧱 **Reusable class for future use**
-- 📦 **Modular structure**
+-  **Single-variable regression**
+-  **Multivariable regression (3 features)**
+-  **Gradient descent implementation**
+-  **Normal Equation (closed-form)**
+-  **Comparison with `scikit-learn`**
+-  **Loss curve and residuals**
+-  **Reusable class for future use**
+-  **Modular structure**
 
 ---
 
-## 🧪 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repo
 
@@ -78,25 +77,7 @@ Open either:
 
 ---
 
-## 📈 Sample Visuals
-
-### 🎯 Predicted vs Actual
-
-![scatter](assets/predicted_vs_actual.png)
-
-### 📉 Loss Curve
-
-![loss](assets/loss_curve.png)
-
-### 📊 Residual Histogram
-
-![residuals](assets/residuals.png)
-
-> *Note: Save these plots in a local `assets/` folder if pushing to GitHub with visuals.*
-
----
-
-## 🧠 Example Class Usage
+##  Example Class Usage
 
 ```python
 from Linear_regression_class import LinearRegressionScratch
@@ -110,7 +91,7 @@ model.plot_coefficients()
 
 ---
 
-## 🚀 Future Add-ons (Optional)
+##  Future Add-ons (Optional)
 
 - Add regularization (Ridge, Lasso)
 - Polynomial features
@@ -120,14 +101,14 @@ model.plot_coefficients()
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Inspired by Géron’s "Hands-On ML" and traditional ML coursework, but restructured for clarity, visuals, and reusability.
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Vishnujan Narayanan**  
 _Data | ML | Optimization Enthusiast_  
-[GitHub](https://github.com/<your-username>) • [Substack](https://<your-substack>) • [LinkedIn](https://linkedin.com/in/<your-profile>)
+[GitHub](https://github.com/VishnujanNarayanan) • [Substack](https://substack.com/@vishnujannarayanan) • [LinkedIn](www.linkedin.com/in/vishnujan-narayanan)
