@@ -1,4 +1,4 @@
-# 🧠 Linear Regression from Scratch
+#  Linear Regression from Scratch
 
 This project demonstrates how to build, train, and visualize a linear regression model **from scratch using only NumPy** — no machine learning libraries like `scikit-learn`.
 
@@ -13,7 +13,7 @@ The goal is to show deep understanding by:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Linear_regression_scratch/
@@ -25,7 +25,7 @@ Linear_regression_scratch/
 
 ---
 
-## 📘 What I learnt
+##  What I learnt
 
  Gradient Descent (step-by-step)  
  Mean Squared Error (MSE) loss  
@@ -35,8 +35,7 @@ Linear_regression_scratch/
 
 ---
 
-## 
- Features Implemented
+## Features Implemented
 
 -  **Single-variable regression**
 -  **Multivariable regression (3 features)**
