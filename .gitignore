@@ -1,0 +1,6 @@
+# Ignore virtual env and temp files
+env/
+.ipynb_checkpoints/
+.jupyter/
+__pycache__/
+*.pyc
